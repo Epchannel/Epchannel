@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 
 ### Online project
 
-chatbot-pdf: https://github.com/Epchannel/NLP_Chatbot-PDF
+chatbot-for-university: [https://github.com/Epchannel/FE-HUMG-chatbot](https://chatbothumg.com/)
+
+chatbot-pdf: [https://github.com/Epchannel/NLP_Chatbot-PDF](https://youtu.be/jOaXxmZ4aH0)
 
 website-book-car: [https://github.com/Epchannel/Xe-ghep-Doan-Hung](https://xeghepdoanhung.com.vn/)
 
 website-fashion-company: [https://github.com/Epchannel/Thoi-trang-Nhat-Quan](https://congtyquanminh.com/)
-
-chatbot-for-university: https://github.com/Epchannel/FE-HUMG-chatbot
-
 
 ### Certificates
 
