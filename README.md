@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/Epchannel?label=关注者&style=social" alt="Follower Github" />
   <img src="https://img.shields.io/github/stars/Epchannel?label=获赞&style=social" alt="Star Github" />
-  <img src="https://komarev.com/ghpvc/?username=Epchannel&label=访问量&color=2F80ED&style=flat" alt="Lượt truy cập" />
+  <img src="https://komarev.com/ghpvc/?username=Epchannel&color=green" alt="Lượt truy cập" />
 </div>
 
 <br/>
@@ -41,8 +41,8 @@
 ### 📊 Thống kê GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuaotian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaotian&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Epchannel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epchannel&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
 </div>
 
 ### 🐍 Biểu đồ đóng góp
