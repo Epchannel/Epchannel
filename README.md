@@ -3,8 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Epchannel?label=关注者&style=social" alt="Follower Github" />
-  <img src="https://img.shields.io/github/stars/Epchannel?label=获赞&style=social" alt="Star Github" />
   <img src="https://komarev.com/ghpvc/?username=Epchannel&color=green" alt="Lượt truy cập" />
 </div>
 
@@ -62,13 +60,6 @@
 <div align="center">
   <a href="https://github.com/Epchannel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:epchannel1208@gmail.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- 微信：JavaRookie666 -->
-  <a href="./img/wx_me.png">
-    <img src="https://img.shields.io/badge/微信-ddddd?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
 </div>
 
