@@ -39,8 +39,8 @@
 ### 📊 Thống kê GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Epchannel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epchannel&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Epchannel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=vi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epchannel&layout=compact&langs_count=8&theme=tokyonight&locale=vi"/>
 </div>
 
 ### 🐍 Biểu đồ đóng góp
